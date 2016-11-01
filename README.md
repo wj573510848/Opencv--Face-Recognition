@@ -1,13 +1,13 @@
-# opencv--
-    初学opencv。用python搭建简单的人脸识别模块。能实现的功能有：
-*采集人脸数据集
-*识别人脸并显示姓名
-
-1.准备（requirements）
+# opencv--Face Recognition
+    用python、opencv搭建人脸识别。
+    
+requirements
 *python2.7
-*opencv3
-*opencv contrib
+*opencv2
 
-
+需要实现的功能：
+1.人脸检测（Face Detection）
+2.采集训练数据
+3.人脸识别（Face Recognition）
 
 
